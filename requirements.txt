@@ -1,0 +1,5 @@
+numpy==1.24.1
+Pillow==9.2.0
+Pillow==10.1.0
+pygame==2.5.2
+pymunk==6.6.0

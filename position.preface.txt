@@ -1,0 +1,21 @@
+# dynamic characters
+# syntax: x1 y1 w h
+# if just x1 then y1, w, h are as in previous line
+
+__DYNAMIC__
+
+40 59 41 57
+76
+114 59 52 57
+165 66 68 59
+
+102 133 59 42
+160 133 53 49
+225 137 42 57
+270 145 42 50
+
+__FIXED__
+
+# fixed region
+# syntax: x1 y1 w h
+22 246 359 89
