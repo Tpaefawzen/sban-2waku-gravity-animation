@@ -32,8 +32,8 @@ FPS: float = 30
 LETTER_MASS: float = 1
 #DEBUG: bool = True
 DEBUG: bool = False
-DURATION_S: float = 50-13
-DO_SAVE_IMAGE: bool = False
+DURATION_S: float = 10
+DO_SAVE_IMAGE: bool = True
 
 OUTPUT_DIR: Path = Path("VideoFrames")
 
