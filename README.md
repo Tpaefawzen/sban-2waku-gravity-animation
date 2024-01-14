@@ -2,6 +2,10 @@
 
 ![Animation example](./_animation_example.gif)
 
+# プロジェクト例
+* [このレポジトリも交えて説明してるshort動画](https://youtube.com/shorts/mzSlxEVfYwM?si=LrthzdEyjTkhQadk)
+* [2枠例](https://youtu.be/bXSptv_HA74?si=Kt4NmACqUgGzF0op&t=40)
+
 # 必要なPythonライブラリ
 `requirements.txt`にまとめといた。
 
